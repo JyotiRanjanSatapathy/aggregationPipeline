@@ -4,9 +4,9 @@
 
 1. Put valid AWS Access ID and Secret Key in the `.env` file.
 2. Run the following commands:
+                            a. npm i
+                            b. npm run start
 
-npm i
-npm run start
 
 This will start the server locally.
 
