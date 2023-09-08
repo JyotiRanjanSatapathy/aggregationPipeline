@@ -3,9 +3,10 @@
 ## How to Start the Project in Local Environment
 
 1. Put valid AWS Access ID and Secret Key in the `.env` file.
-2. Run the following commands:
-                            a. npm i
-                            b. npm run start
+
+Commands to run:
+1. `npm i`
+2. `npm run start`
 
 
 This will start the server locally.
